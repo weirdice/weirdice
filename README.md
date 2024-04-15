@@ -1,13 +1,5 @@
-<style>
-bu { color: DodgerBlue}
-teal { color: DarkTurquoise}
-r { color: FireBrick}
-g { color: Green}
-vi { color:BlueViolet}
-pu { color: Purple}
-</style>
 
-# <teal>Benjamin Post</teal>
+# <teal style="color : DarkTurquoise">Benjamin Post</teal>
 <div id="badges">
   <a href="https://www.linkedin.com/in/postbenjamind/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -26,7 +18,7 @@ I've gotten a taste of data analytics between past educational and professional 
 
 *Looking to use this site to start learning the tools used in data science while recording related projects as well as the occasional passion project.*
 
-### <bu>EXPERIENCE WITH</bu>
+### <bu style="color : DodgerBlue">EXPERIENCE WITH</bu>
 ---
 
 <table>
@@ -40,7 +32,7 @@ I've gotten a taste of data analytics between past educational and professional 
     </tr>
 </table>
 
-### <vi>LOOKING TO LEARN</vi>
+### <vi style="color : BlueViolet">LOOKING TO LEARN</vi>
 ---
 
 <table>
@@ -51,7 +43,7 @@ I've gotten a taste of data analytics between past educational and professional 
     </tr>
 </table>
 
-### <pu>OTHER PASSIONS</pu>
+### <pu style="color : Purple">OTHER PASSIONS</pu>
 ---
 
 <table>
@@ -65,7 +57,7 @@ I've gotten a taste of data analytics between past educational and professional 
     </tr>
 </table>
 
-# <r>PROJECTS</r>
+# <r style="color : BrickRed">PROJECTS</r>
 Coming soon...
 
 
