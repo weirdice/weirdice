@@ -1,5 +1,7 @@
 
-# <teal style="color : DarkTurquoise">Benjamin Post</teal>
+ $${\Huge\color{teal}\textsf{Benjamin Post}}$$
+
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/postbenjamind/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,8 +19,10 @@
 I've gotten a taste of data analytics between past educational and professional experience including using **MATlab** to process experiment data at an internship while attending *University of Washington* and handling analytics in **Excel** for my team during my time at *Zulily*. I've come to realize that a career in data analytics is a great way to utilize the Critical Thinking approach I gained getting a Dual Mathematics and Physics degree but that I still have a long way to go regarding learning technologies used in the field.
 
 *Looking to use this site to start learning the tools used in data science while recording related projects as well as the occasional passion project.*
+<br>
 
-### <bu style="color : DodgerBlue">EXPERIENCE WITH</bu>
+ $${\Large\color{green}\textsf{EXPERIENCE WITH}}$$
+
 ---
 
 <table>
@@ -31,8 +35,10 @@ I've gotten a taste of data analytics between past educational and professional 
         <td> Fusion360 </td>
     </tr>
 </table>
+<br>
 
-### <vi style="color : BlueViolet">LOOKING TO LEARN</vi>
+ $${\Large\color{orange}\textsf{LOOKING TO LEARN}}$$
+
 ---
 
 <table>
@@ -42,8 +48,9 @@ I've gotten a taste of data analytics between past educational and professional 
         <td> SQL </td>
     </tr>
 </table>
+<br>
 
-### <pu style="color : Purple">OTHER PASSIONS</pu>
+ $${\Large\color{purple}\textsf{OTHER PASSIONS}}$$
 ---
 
 <table>
@@ -56,8 +63,10 @@ I've gotten a taste of data analytics between past educational and professional 
         <td> Digital Art </td>
     </tr>
 </table>
+<br>
 
-# <r style="color : BrickRed">PROJECTS</r>
+ $${\Large\color{red}\textsf{PROJECTS}}$$
+ ---
 Coming soon...
 
 
