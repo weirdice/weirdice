@@ -1,5 +1,5 @@
 
- $${\Huge\color{teal}\textsf{Benjamin Post}}$$
+ #$${\Huge\color{teal}\textsf{Benjamin Post}}$$
 
 
 
@@ -22,9 +22,9 @@ I've gotten a taste of data analytics between past educational and professional 
 *Looking to use this site to start learning the tools used in data science while recording related projects as well as the occasional passion project.*
 <br>
 
- $${\Large\color{green}\textsf{EXPERIENCE WITH}}$$
+## $${\Large\color{green}\textsf{EXPERIENCE WITH}}$$
 
----
+
 
 <table>
     <tr>
@@ -38,9 +38,8 @@ I've gotten a taste of data analytics between past educational and professional 
 </table>
 <br>
 
- $${\Large\color{orange}\textsf{LOOKING TO LEARN}}$$
+## $${\Large\color{orange}\textsf{LOOKING TO LEARN}}$$
 
----
 
 <table>
     <tr>
@@ -51,8 +50,8 @@ I've gotten a taste of data analytics between past educational and professional 
 </table>
 <br>
 
- $${\Large\color{purple}\textsf{OTHER PASSIONS}}$$
----
+## $${\Large\color{purple}\textsf{OTHER PASSIONS}}$$
+
 
 <table>
     <tr>
@@ -66,8 +65,8 @@ I've gotten a taste of data analytics between past educational and professional 
 </table>
 <br>
 
- $${\Large\color{red}\textsf{PROJECTS}}$$
- ---
+## $${\Large\color{red}\textsf{PROJECTS}}$$
+
 Coming soon...
 
 
