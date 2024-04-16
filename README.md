@@ -1,7 +1,7 @@
 
-  $${\Huge\color{teal}\sf{Benjamin Post}}$$
+  # $${\huge\color{teal}\textsf{Benjamin Post}}$$
 
-  ---
+  
 
 
 
@@ -34,7 +34,7 @@ Excel | Power Query | VBA | PowerApps | MATlab | Fusion360
 
 <br>
 
-$${\Large\color{FF8C00}\textsf{LOOKING TO LEARN}}$$
+$${\Large\color{orange}\textsf{LOOKING TO LEARN}}$$
 
 ---
 
@@ -43,7 +43,7 @@ Python | Power BI | SQL
 
 <br>
 
- $${\Large\color{8B008B}\textsf{OTHER PASSIONS}}$$
+ $${\Large\color{purple}\textsf{OTHER PASSIONS}}$$
 
  ---
 
@@ -52,7 +52,7 @@ Video Games :video_game: | Table Top Gaming :game_die: | Magic the Gathering :fl
 
 <br>
 
- $${\Large\color{B22222}\textsf{PROJECTS}}$$
+ $${\Large\color{red}\textsf{PROJECTS}}$$
 
 ---
 
