@@ -1,5 +1,7 @@
 
- # $${\Large\color{teal}\textsf{Benjamin Post}}$$
+  $${\Huge\color{teal}\sf{Benjamin Post}}$$
+
+  ---
 
 
 
@@ -20,52 +22,40 @@
 I've gotten a taste of data analytics between past educational and professional experience including using **MATlab** to process experiment data at an internship while attending *University of Washington* :school: and handling analytics in **Excel** for my team during my time at *Zulily* :office:. I've come to realize that a career in data analytics is a great way to utilize the Critical Thinking approach I gained getting a Dual Mathematics and Physics degree but that I still have a long way to go regarding learning technologies used in the field.
 
 *Looking to use this site to start learning the tools used in data science while recording related projects as well as the occasional passion project.*
+
 <br>
 
-## $${\color{green}\textsf{EXPERIENCE WITH}}$$
+ $${\Large\color{Green}\textsf{EXPERIENCE WITH}}$$
 
+---
 
+Excel | Power Query | VBA | PowerApps | MATlab | Fusion360
+---|---|---|---|---|---
 
-<table>
-    <tr>
-        <td> Excel </td>
-        <td> Power Query </td>
-        <td> VBA </td>
-        <td> PowerApps </td>
-        <td> MATlab </td>
-        <td> Fusion360 </td>
-    </tr>
-</table>
 <br>
 
-## $${\color{orange}\textsf{LOOKING TO LEARN}}$$
+$${\Large\color{FF8C00}\textsf{LOOKING TO LEARN}}$$
 
+---
 
-<table>
-    <tr>
-        <td> Python </td>
-        <td> Power BI </td>
-        <td> SQL </td>
-    </tr>
-</table>
+Python | Power BI | SQL
+---|---|---
+
 <br>
 
-## $${\color{purple}\textsf{OTHER PASSIONS}}$$
+ $${\Large\color{8B008B}\textsf{OTHER PASSIONS}}$$
 
+ ---
 
-<table>
-    <tr>
-        <td> Video Games :video_game:</td>
-        <td> Table Top Gaming :game_die:</td>
-        <td> Magic the Gathering :flower_playing_cards:</td>
-        <td> 3D Printing :printer:</td>
-        <td> LEGO :bricks:</td>
-        <td> Digital Art :framed_picture:</td>
-    </tr>
-</table>
+Video Games :video_game: | Table Top Gaming :game_die: | Magic the Gathering :flower_playing_cards: | 3D Printing :printer: | LEGO :bricks: | Digital Art :framed_picture: |
+|--- | ---|--- |--- |--- |--- |
+
 <br>
 
-## $${\color{red}\textsf{PROJECTS}}$$
+ $${\Large\color{B22222}\textsf{PROJECTS}}$$
+
+---
+
 | Title | Description|
 |---|---|
 |[Sudoku Solving Project](https://github.com/weirdice/Sudoku_Solver) | Selects a random Sudoku Puzzle from a Kaggle database and solves it|
@@ -74,17 +64,6 @@ More coming soon...| |
 
 <!--
 **weirdice/weirdice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 FORMATING NOTES
 
