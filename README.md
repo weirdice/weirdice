@@ -15,7 +15,7 @@
 ---
 
 
-#### Technically focused individual in the Greater Cleveland Area :earth_americas: working to learn the technical skills needed to start a career in Data Analytics.
+#### Technically focused individual in the Greater Cleveland Area :earth_americas: working to learn the technical skills:books: needed to start a career in Data Analytics.
 
 I've gotten a taste of data analytics between past educational and professional experience including using **MATlab** to process experiment data at an internship while attending *University of Washington* :school: and handling analytics in **Excel** for my team during my time at *Zulily* :office:. I've come to realize that a career in data analytics is a great way to utilize the Critical Thinking approach I gained getting a Dual Mathematics and Physics degree but that I still have a long way to go regarding learning technologies used in the field.
 
@@ -38,7 +38,7 @@ I've gotten a taste of data analytics between past educational and professional 
 </table>
 <br>
 
-## $${\color{orange}\textsf{LOOKING TO LEARN}}$$ :books:
+## $${\color{orange}\textsf{LOOKING TO LEARN}}$$
 
 
 <table>
@@ -57,9 +57,9 @@ I've gotten a taste of data analytics between past educational and professional 
     <tr>
         <td> Video Games :video_game:</td>
         <td> Table Top Gaming :game_die:</td>
-        <td> Magic the Gathering :flower_playing_card:</td>
+        <td> Magic the Gathering :flower_playing_cards:</td>
         <td> 3D Printing :printer:</td>
-        <td> LEGO :brick:</td>
+        <td> LEGO :bricks:</td>
         <td> Digital Art :framed_picture:</td>
     </tr>
 </table>
