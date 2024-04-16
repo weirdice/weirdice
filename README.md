@@ -66,7 +66,7 @@ I've gotten a taste of data analytics between past educational and professional 
 <br>
 
 ## $${\color{red}\textsf{PROJECTS}}$$
-| | |
+| Title | Description|
 |---|---|
 |[Sudoku Solving Project](https://github.com/weirdice/Sudoku_Solver) | Selects a random Sudoku Puzzle from a Kaggle database and solves it|
 More coming soon...| |
