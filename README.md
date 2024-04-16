@@ -15,9 +15,9 @@
 ---
 
 
-#### Technically focused individual in the Greater Cleveland Area working to learn the technical skills needed to start a career in Data Analytics.
+#### Technically focused individual in the Greater Cleveland Area :earth_americas: working to learn the technical skills needed to start a career in Data Analytics.
 
-I've gotten a taste of data analytics between past educational and professional experience including using **MATlab** to process experiment data at an internship while attending *University of Washington* and handling analytics in **Excel** for my team during my time at *Zulily*. I've come to realize that a career in data analytics is a great way to utilize the Critical Thinking approach I gained getting a Dual Mathematics and Physics degree but that I still have a long way to go regarding learning technologies used in the field.
+I've gotten a taste of data analytics between past educational and professional experience including using **MATlab** to process experiment data at an internship while attending *University of Washington* :school: and handling analytics in **Excel** for my team during my time at *Zulily* :office:. I've come to realize that a career in data analytics is a great way to utilize the Critical Thinking approach I gained getting a Dual Mathematics and Physics degree but that I still have a long way to go regarding learning technologies used in the field.
 
 *Looking to use this site to start learning the tools used in data science while recording related projects as well as the occasional passion project.*
 <br>
@@ -38,7 +38,7 @@ I've gotten a taste of data analytics between past educational and professional 
 </table>
 <br>
 
-## $${\color{orange}\textsf{LOOKING TO LEARN}}$$
+## $${\color{orange}\textsf{LOOKING TO LEARN}}$$ :books:
 
 
 <table>
@@ -55,19 +55,21 @@ I've gotten a taste of data analytics between past educational and professional 
 
 <table>
     <tr>
-        <td> Video Games </td>
-        <td> Table Top Gaming </td>
-        <td> Magic the Gathering </td>
-        <td> 3D Printing </td>
-        <td> LEGO </td>
-        <td> Digital Art </td>
+        <td> Video Games :video_game:</td>
+        <td> Table Top Gaming :game_die:</td>
+        <td> Magic the Gathering :flower_playing_card:</td>
+        <td> 3D Printing :printer:</td>
+        <td> LEGO :brick:</td>
+        <td> Digital Art :framed_picture:</td>
     </tr>
 </table>
 <br>
 
 ## $${\color{red}\textsf{PROJECTS}}$$
-
-Coming soon...
+| | |
+|---|---|
+|[Sudoku Solving Project](https://github.com/weirdice/Sudoku_Solver) | Selects a random Sudoku Puzzle from a Kaggle database and solves it|
+More coming soon...| |
 
 
 <!--
