@@ -59,6 +59,7 @@ Video Games :video_game: | Table Top Gaming :game_die: | Magic the Gathering :fl
 | Title | Description|
 |---|---|
 |[Sudoku Solving Project](https://github.com/weirdice/Sudoku_Solver) | Selects a random Sudoku Puzzle from a Kaggle database and solves it|
+|[Time Tracking App](https://github.com/weirdice/Time_Tracker)|Tracks time spent on tasks and breaks with options for rounding.|
 More coming soon...| |
 
 
